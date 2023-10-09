@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: error.com.company
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, data, data-hibernate-reactive, hibernate-reactive-jpa, http-client-test, java, java-application, junit, logback, lombok, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, netty-server, oracle, properties, reactor, readme, serialization-jackson, shade, test-resources, testcontainers]
